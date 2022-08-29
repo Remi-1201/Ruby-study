@@ -1,6 +1,7 @@
 ### 31
 
 ![image](https://user-images.githubusercontent.com/97021497/187075226-36c68a4d-73a1-4905-8388-7fe1df121237.png)
+![image](https://user-images.githubusercontent.com/97021497/187186992-e0111b7a-487d-4c47-9f83-0e979f750e84.png)
 
 ---
 ### 32
