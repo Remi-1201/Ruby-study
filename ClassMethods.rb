@@ -101,3 +101,4 @@ Dir#mkdir：ディレクトリ作成
 Dir#chdir：ディレクトリの移動
 Dir#rmdir：ディレクトリの削除
 Dir#exist?：ディレクトリの存在検査
+Dir#seek
